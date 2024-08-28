@@ -1,9 +1,9 @@
-Summary: Finding Odd Numbers in a List
+#Finding Odd Numbers in a List
 
-Objective:
+#Objective:
 To identify and extract all odd numbers from a given list of integers.
 
-Code Explanation:
+#Code Explanation:
 1. List Definition:
    - numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
    - This list contains integers ranging from 1 to 10.
@@ -25,5 +25,5 @@ Code Explanation:
 Example Output:
 [1, 3, 5, 7, 9]
 
-Summary:
+#Summary:
 The provided code filters out odd numbers from a list of integers and prints them. It uses the filter function in conjunction with a lambda expression to achieve this.
